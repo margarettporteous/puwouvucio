@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iecoophoo.iportbytes.com/sitemap.xml
